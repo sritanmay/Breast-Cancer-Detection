@@ -1,7 +1,7 @@
 # Breast-Cancer-Detection-with-Deep-Learning
-Breast cancer is the most common form of cancer in women, and invasive ductal carcinoma (IDC) is the most common form of breast cancer. Accurately identifying and categorizing breast cancer subtypes is an important clinical task, and automated methods can be used to save time and reduce error.
+Breast cancer is the most common form of cancer in women. Accurately identifying and categorizing breast cancer subtypes is an important clinical task, and automated methods can be used to save time and reduce error. The model gives correct results with 86% accuracy.
 
-Download Dataset from here https://www.kaggle.com/paultimothymooney/breast-histopathology-images/version/1
+Downloaded Dataset from https://www.kaggle.com/paultimothymooney/breast-histopathology-images/version/1
 
 We are using CNN to classify between cancerous cells and non-cancerous cells.
 
@@ -23,7 +23,5 @@ Classification Report
    macro avg       0.83      0.82      0.82     55505
 weighted avg       0.86      0.86      0.86     55505
 ```
-![](conv2d_1_views.png)
-![](conv2d_2_views.png)
-![](conv2d_3_views.png)
+
 ![](cnn_architecture.png)
